@@ -1,11 +1,11 @@
 # 🐍 Hello! My name is Diego! 🫡
 
 
-Eu sou extremamente interessado em banco de dados, frameworks e aplicações interativas
+I am extremely interested in databases, completely passionate about frameworks and interactive applications
 
-Tenho 19 Anos, moro em Acreúna Goiás no Brasil
+I'm 19 years old, I live in Acreúna Goiás in Brazil
 
-Curso engenharia de Software na UNIRV (Universidade de Rio Verde)
+I'm studying Software Engineering at UNIRV (University of Rio Verde)
 
 
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-A-M&show_icons=true&theme=merko)
