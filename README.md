@@ -26,4 +26,7 @@ I'm studying Software Engineering at UNIRV (University of Rio Verde)
 
 [![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/pt/)[![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com)[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 
+# Contact me!
+Email: diegoaugustomo.mtbr@gmail.com
+
 # if you need me, i'll be snaking around! 🐍
