@@ -3,7 +3,7 @@
 
 I am extremely interested in databases, completely passionate about frameworks and interactive applications
 
-I'm 19 years old, I live in Acreúna Goiás in Brazil
+I'm 19 years old, I live in Guaxupé, Minas Gerais, Brasil.
 
 I'm studying Software Engineering at UNIRV (University of Rio Verde)
 
